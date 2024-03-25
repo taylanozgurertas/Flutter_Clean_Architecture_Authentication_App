@@ -16,7 +16,7 @@ Regards to Rivaan Ranawat. Thank you so much.
 
 ## How to Use This Project
 
-If you are using Supabase just create "secrets" folder in common folder.
+If you are using Supabase just create "secrets" folder in core folder.
 And create a "app_secrets.dart" file and this file should contain your Supabase anonKey and url.
 You can customize all of this if you are using Firebase. 
 
