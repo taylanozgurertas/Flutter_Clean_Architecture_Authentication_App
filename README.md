@@ -29,4 +29,7 @@ class AppSecrets {
 }
 ```
 
+![Sign Up](https://r.resimlink.com/H1NRtw9q.png)
+![Sign In](https://r.resimlink.com/RKQw_pUgh48.png)
+
 Have a nice day!
